@@ -1,0 +1,1 @@
+export const API ="https://api.wine.delivery.tdrsoftware.in"

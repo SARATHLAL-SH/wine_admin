@@ -1,0 +1,16 @@
+/* custom-datepicker.css */
+.react-datepicker__day--selected {
+    background-color: #614ae2 !important; /* Tailwind color or your choice */
+    color: white !important; /* Adjust text color if needed */
+  }
+  
+  .react-datepicker__day--selected:hover {
+    background-color: #357abd !important;
+     /* Tailwind color or your choice */
+  }
+  
+  .react-datepicker__header {
+    background-color: #664ae2 !important; /* Tailwind color or your choice */
+    color: white !important;
+  }
+ 
